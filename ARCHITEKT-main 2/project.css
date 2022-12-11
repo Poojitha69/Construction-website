@@ -1,0 +1,237 @@
+body{
+    color: white;
+    background-image: url(imagess/image.jpg);
+    font-family: sans-serif; 
+    margin: 0%;
+}
+a{
+    color: white;
+    text-decoration: none
+}
+pre{
+    padding-left: 20px;
+}
+h1{
+    color: rgb(187, 53, 0);
+    padding-left: 80px;
+    margin-bottom: 0px;
+}
+h5{
+    margin: 0px 0px 0px 20px;
+}
+.details{
+    background-color: white;
+    border-collapse: collapse;
+    font-size: 15px;
+    width: 100%;
+}
+.info p{
+    font-size: 12px;
+}
+#img{
+    position: absolute;
+    top: 8px;
+    left: 60px;
+}
+.header h2{
+    position: absolute;
+    z-index: 3;
+    top: 30px;
+    left: 180px;
+}
+.info{
+    position: absolute;
+}
+.header h2:hover{
+    color: rgb(187, 53, 0);
+}
+#orange{
+    background-color: rgb(187, 53, 0);
+}
+#orange a{
+    color: rgb(255, 255, 255);
+}
+.details td{
+    font-size: 13px;
+    padding: 15px 0px;
+    width: 1%;
+    text-align: center;
+}
+.details a{
+    text-decoration: none;
+    color: rgb(133, 127, 127);
+    text-align: center;
+}
+.details a:hover{
+    color: rgb(187, 53, 0);
+}
+.details a:active{
+    text-decoration: underline;
+    color: #ba3500;
+}
+.slider p{
+    margin-top: 0px;
+    overflow: hidden;
+}
+.slider figure{
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    animation: 20s slider infinite;
+}
+.slider figure img{
+    float: left;
+    width: 20%;
+}
+@keyframes slider{
+    0% {
+        left: 0;
+    }
+    20% {
+        left: 0;
+    }
+    25% {
+        left: -100%;
+    }
+    45% {
+        left: -100%;
+    }
+    50% {
+        left: -200%;
+    }
+    70% {
+        left: -200%;
+    }
+    75% {
+        left: -300%;
+    }
+    95% {
+        left: -300%;
+    }
+    1000% {
+        left: -400%;
+    }
+}
+
+.learn{
+    padding-left: 85%;
+}
+.footer{
+    width: 100%;
+    background-color: #B9E0FF;
+    color: black;
+}
+.footer td{
+    width: 50%;
+}
+.footer a{
+    color: #000;
+}
+.contacts input{
+    border-style: outset;
+    border-color: white;
+    border-width: 3px;
+    margin: 15px 15px 15px 15px;
+    padding: 10px 0px;
+}
+.contacts textarea{
+    border-style: outset;
+    border-color: white;
+    border-width: 3px;
+    margin: 15px 15px 15px 15px;
+    padding: 10px 0px;
+}
+.contacts form{
+    border: 1px white solid;
+    width: 57%;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.two a{
+    display: block;
+} 
+.footer a{
+    line-height: 29px;
+}
+.cpyrt{
+    width: 100%;
+}
+.cpyrt td{
+    width: 47%;
+    font-size: 10px;
+}
+.main2 img{
+    width: 100%;
+    left: 0px;
+}
+.haha{
+    padding: 450px 0px 0px 120px;
+}
+.haha input{
+    margin: 28px 0px;
+}
+.main2 label{
+    color: #000;
+}
+.media{
+    margin: 20px 0px 10px 30px;
+}
+.media td{
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.main3 h2{
+    color: #ba3500;
+    margin-top: 90px;
+    margin-left: 45px;
+    font-size: 40px;
+}
+.main3 h3{
+    margin-left: 45px;
+    font-size: 29px;
+}
+.cover{
+    width: 1518px;
+}
+.hehe{
+    padding-bottom: 80px;
+}
+.hex input{
+    padding: 7px;
+    margin: 20px 10px ;
+}
+.tag{
+    display: grid;
+    position: absolute;
+    top: 1020px;
+    left: 1200px;
+    line-height: 45px;
+    font-size: 20px;
+}
+.tag a:hover{
+    color: #ba3500;
+    font-size: 22px;
+}
+.main{
+    padding-bottom: 80px;
+}
+.ok tr{
+    margin-left: 100px;
+}
+.main6 h2:hover{
+    color: #ba3500;
+}
+.expertise{
+    background-color: #9191bf;
+    margin: 60px 80px;
+    padding-bottom: 20px;
+}
+.projekt img:hover{
+    opacity: 20%;
+
+}
+.projekt img:hover{
+    opacity: 40%;
+}

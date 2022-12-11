@@ -1,0 +1,150 @@
+body{
+    background-image: url(imagess/image.jpg);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0px;
+}
+.top{
+    margin: 30px 120px;
+}
+.main{
+    margin: 30px 120px;
+}
+pre{
+    color: rgb(130, 127, 127);
+}
+h2{
+    font-size: 35px;
+    margin: 0px;
+}
+.top pre{
+    font-size: 10px;
+    margin: 0px 0px 0px 5px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.top a:hover{
+    color: rgb(187, 53, 0);
+}
+.details td{
+    padding: 0px 67px 0px 0px;
+    font-size: 20px;
+
+}
+.social{
+    display: inline;
+}
+.main p{
+    font-size: 70px;
+    color: rgb(187, 53, 0);
+    padding: 150px 0px 0px 70px;
+    margin: 98px 0px 20px 0px;
+
+}
+.main h2{
+    font-size: 60px;
+    padding-left: 70px;
+}
+.main h3{
+    font-size: 53px;
+    padding-left: 70px;
+}
+.one{
+    position: absolute;
+    width: 1470px;
+    top: 12%;
+    left: 3.25%;
+    z-index: -2;
+}
+.two{
+    position: absolute;
+    width: 1470px;
+    top: 4.5%;
+    left: -2.7%;
+    height: 1600px;
+    z-index: -1;
+}
+.three{
+    position: absolute;
+    width: -1000px;
+    top: 1113px;
+    left: 1.25%;
+    z-index: -2;
+}
+.four{
+    position: absolute;
+    top: 755px;
+    left: 32%;
+    z-index: -2;
+}
+.us {
+    width: 100%;
+    padding-top: 250px;
+}
+.us td{
+    width: 25%;
+
+}
+th{
+    font-size: 40px;
+    padding-left: 0px;
+}
+.main pre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+.us a{
+    color: rgb(187, 53, 0);
+}
+.footer{
+    background-color: rgb(16, 16, 18);
+    height: 500px;
+    margin: 200px 0px 0px 0px;
+}
+.footer h1{
+    padding: 90px 120px 0px;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.footer pre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 120px;
+}
+.xx{
+    position: absolute;
+    right: 0px;
+    width: 750px;
+    z-index: 0;
+}
+button p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 4px 70px;
+    margin: 0px;
+    color: white;
+}
+button{
+    background-color: black;
+    border-radius: 8px;
+}
+form{
+    background-color: rgb(187, 53, 0);
+    padding: 10px;
+    border-radius: 3px;
+    position: absolute;
+    top: 1720px;
+    left: 520px;
+}
+.last p{
+    padding: 0px 0px 0px 120px;
+    font-size: 25px;
+
+}
